@@ -37,23 +37,6 @@
                 img {
                     max-height: 60px;
                 }
-
-                button {
-                    display: block;
-                    width: 100%;
-                    height: 60px;
-                    font-size: 18px;
-                    color: variaveis.$corTexto_secundario;
-                    background-color: #6421ff;
-                    text-transform: uppercase;
-                    border-radius: 4px;
-                    -webkit-border-radius: 4px;
-                    -moz-border-radius: 4px;
-                    -ms-border-radius: 4px;
-                    -o-border-radius: 4px;
-                    margin-top: 2vw;
-                    margin-bottom: 8px
-                }
             }
         }
     }
